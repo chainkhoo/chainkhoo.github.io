@@ -37,7 +37,7 @@ JB :
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
   #
-   CNAME (http://blog.imqyc.info)
+  #   CNAME (http://blog.imqyc.info)
   #   DO NOT SET BASE_PATH 
   #   (urls will be prefixed with "/" and work relatively)
   #
