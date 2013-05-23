@@ -1,11 +1,8 @@
 ---
 layout: post
-title: ""
-description: ""
-category: 
+category: web
 tags: [git][jekyll][ssl]
 ---
-{% include JB/setup %}
 
 #最近完成：学习Git、搭建Jekyll博客和为主页启用SSL支持#
 
