@@ -1,7 +1,9 @@
 ---
-layout : post
-category : web
-tags : [git][jekyll][ssl]
+layout: post
+title: "建站"
+description: ""
+category: web
+tags: [git][jekyll][ssl]
 ---
 
 #最近完成：学习Git、搭建Jekyll博客和为主页启用SSL支持#
