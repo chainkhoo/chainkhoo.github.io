@@ -47,4 +47,4 @@ tags: [shadowsocks,nodejs,VPS]
 
 之后就可以开始访问各种不存在的网站了。速度飞快，就我个人的测试是比goagent快很多的。  
 
-如果希望保持服务器上的Shadowsocks时刻开启，则最好设置一个crontab，定时重启`server.js`。你也可以使用高端大气的monit时刻监控服务，保证其时刻开启，参考[http://stackoverflow.com/questions/298760/how-to-make-sure-an-application-keeps-running-on-linux](http://stackoverflow.com/questions/298760/how-to-make-sure-an-application-keeps-running-on-linux)  
+如果希望保持服务器上的Shadowsocks时刻开启，则最好设置一个crontab，定时重启Shadowsocks。你也可以使用高端大气的monit时刻监控服务，保证其时刻开启，参考[http://stackoverflow.com/questions/298760/how-to-make-sure-an-application-keeps-running-on-linux](http://stackoverflow.com/questions/298760/how-to-make-sure-an-application-keeps-running-on-linux)  
