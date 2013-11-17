@@ -40,7 +40,9 @@ tags: [手机流量,出国流量]
 AIS 的 12call SIM 卡则比较有意思，每周99泰铢（约18.8元人民币）服务费，使用 Facebook、Instagram、WhatApp、LINE、**微信**这些社交软件都不计流量，另外还有150泰铢的叠加套餐，包含**50M的2G流量**和**500M的3G流量**，对于国人游客来说也算非常的实用，毕竟现在有个微信什么事情都解决了。
 
 ![](http://geekpark-img.qiniudn.com/uploads/reading/seed/4be82f4ee4ea66d461febedf3d20559d.jpg)
-不要问小编我是怎么看懂的。。。
+
+
+不要问我是怎么看懂的。。。
 
 ##文艺极客
 
