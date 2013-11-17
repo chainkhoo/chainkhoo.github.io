@@ -1,8 +1,8 @@
 ---
-layout : post
+layout: post
 title: "手机流量获取指北"
-category : 教程
-tags : [手机流量]
+category: 教程
+tags: [手机流量]
 ---
 
 *本文原载于[极客公园](http://www.geekpark.net/read/view/191644)，本处只做备份只用。*
