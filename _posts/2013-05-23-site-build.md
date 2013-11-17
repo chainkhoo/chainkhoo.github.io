@@ -7,7 +7,7 @@ tags: [git,jekyll,ssl]
 
 前两天突然心血来潮学习github的使用，了解了git的意思（一种版本控制的方法），学习了一些基础的git命令，顺便搭建了一下久仰大名的jekyll静态博客,期间遇到问题无数，略作记录。
 
-Git的基本命令我在Google上找到了一张非常明了的图![Git Command](https://gitcafe.com/GitCafe/Help/raw/master/Git/PDF_Docs/Git_Cheat_Sheet.png)  
+Git的基本命令我在Google上找到了一张非常明了的图![Git Command](http://geekpark-img.qiniudn.com/uploads/reading/seed/6574ad9fb8da5ec4bde82446d6f3390e.png)  
 初学git的靠这个基本可以顺利操作。将你的本地代码推到github的基本命令只有三行：  
 
 	git add .  
